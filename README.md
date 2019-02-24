@@ -1,2 +1,4 @@
 # Public_Matlab_Library
-Public Matlab Library for sharing Matlab codes on earthquake engineering applications
+This is a public Matlab library for sharing Matlab codes on earthquake engineering applications. 
+The repository consists of useful scripts and codes Ihsan E. Bal has developed and used over the recent years.
+

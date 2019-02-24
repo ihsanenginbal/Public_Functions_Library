@@ -1,6 +1,20 @@
-% Function of bandpass Butterworth filter
-% Senso Engineering Ltd
-% v1.0 : June 2017
+%% iMatlab Personal Library
+% Butterworth signal filter
+% Author: Prof. Ihsan Engin BAL
+% Hanze University of Applied Sciences, Groningen, Netherlands
+% www.eqresearch.nl
+% i.e.bal@pl.hanze.nl
+% v4.0, September 2018
+
+% OUTPUT
+% filtered data  : Data after filtering
+
+% INPUT
+% order : n^th order of the filtering operation 
+% lowFreq : low frequency of filtering
+% hiFreq : high frequency of filtering
+% dt : delta-t in sec
+% data : raw data
 
 
 

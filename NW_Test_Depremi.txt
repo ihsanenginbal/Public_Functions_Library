@@ -4,7 +4,7 @@ KOERI REGIONAL EARTHQUAKE-TSUNAMI MONITORING CENTER
                                                         Magnitude
 Date       Time      Latit(N)  Long(E)   Depth(km)     MD   ML   Mw    Region
 ---------- --------  --------  -------   ----------    ------------    -----------
-2020.04.14 20:11:36  41.0000   29.0000        1.1      -.-  6.5  -.-   TEST DEPREMI                                  Quick
+2020.04.14 20:21:14  41.0000   29.0000        8.7      -.-  6.4  -.-   TEST SITE FAKE                                       Quick
 2020.04.14 19:39:35  39.9908   42.5743        5.4      -.-  2.6  -.-   SOME FAR TEST SITE                            Quick
 2020.04.14 19:39:34  39.9908   42.5743        5.4      -.-  2.6  -.-   SOME FAR TEST SITE                            Quick
 2020.04.14 19:39:33  39.9908   42.5743        5.4      -.-  2.6  -.-   SOME FAR TEST SITE                            Quick
